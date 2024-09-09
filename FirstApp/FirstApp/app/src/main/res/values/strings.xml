@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="question_java">Java é uma linguagem de programação orientada a objetos.</string>
+    <string name="question_python">Python é uma linguagem de programação compilada.</string>
+    <string name="question_javascript">O JavaScript é uma extensão do java para a web.</string>
+    <string name="question_cpp">O C++ é uma extensão da linguagem de programação C.</string>
+    <string name="question_csharp">O C# é uma linguagem de programação usada no desenvolvimento de jogos.</string>
+
+    <string name="true_button">Sim</string>
+    <string name="false_button">Não</string>
+    <string name="correct_toast">Correto!</string>
+    <string name="incorrect_toast">Incorreto!</string>
+    <string name="next_button">Próxima</string>
+</resources>
